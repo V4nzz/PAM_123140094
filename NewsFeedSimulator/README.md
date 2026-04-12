@@ -58,21 +58,13 @@ Logika utama aplikasi ini dapat ditemukan di `composeApp/src/commonMain/kotlin/`
 
 ## Dokumentasi (Screenshot)
 
-### 1. Tampilan Utama (Streaming & Kategori)
-![Tampilan Utama](screenshots/TampilanUtama.png)
+| 1. Tampilan Utama | 2. Tampilan Expanded | 3. Tampilan Filter (Tech) |
+|:---:|:---:|:---:|
+| <img src="screenshots/TampilanUtama.png" width="250"/> | <img src="screenshots/Expanded.png" width="250"/> | <img src="screenshots/TechCategory.png" width="250"/> |
 
-### 2. Tampilan Expanded (Detail & Transformasi)
-![Tampilan Expanded](screenshots/Expanded.png)
-
-### 3. Tampilan Filter Category
-**Kategori Technology:**
-![Tampilan Filter Category Technology](screenshots/TechCategory.png)
-
-**Kategori Sports:**
-![Tampilan Filter Category Sports](screenshots/SportsCategory.png)
-
-### 4. Tampilan Live Log Console Terbuka
-![Tampilan Log](screenshots/LiveLog.png)
+| 4. Tampilan Filter (Sports) | 5. Live Log Console |
+|:---:|:---:|
+| <img src="screenshots/SportsCategory.png" width="250"/> | <img src="screenshots/LiveLog.png" width="250"/> |
 
 ---
 *Dibuat untuk keperluan pembelajaran Asynchronous Programming menggunakan Kotlin & Compose.*
