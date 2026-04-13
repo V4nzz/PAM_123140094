@@ -1,8 +1,8 @@
 # My Profile App
 
-**Nama:** Ivan Nandira Mangunang
-**NIM:** 123140094
-**Kelas:** RB
+**Nama:** Ivan Nandira Mangunang  
+**NIM:** 123140094  
+**Kelas:** RB  
 
 A **Compose Multiplatform** profile application that displays user information with a clean, modern UI. Built with Kotlin Multiplatform targeting **Android** and **Desktop**.
 
