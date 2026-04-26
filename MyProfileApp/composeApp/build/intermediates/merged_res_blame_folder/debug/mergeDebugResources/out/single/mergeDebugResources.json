@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.myprofileapp.composeApp-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myprofileapp.composeApp-androidMain-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myprofileapp.composeApp-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myprofileapp.composeApp-androidMain-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
