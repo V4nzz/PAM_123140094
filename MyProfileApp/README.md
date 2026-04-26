@@ -121,13 +121,13 @@ Run from terminal:
 
 ### Android
 
-| Profile Home | Edit Mode | Contact Info |
+| Profile Home | Contact Info | Edit Mode |
 |:-:|:-:|:-:|
 | ![Android 1](screenshot/android%20page%202.1.png) | ![Android 2](screenshot/android%20page%202.2.png) | ![Android 3](screenshot/android%20page%202.3.png) |
 
 ### Desktop
 
-| Profile Home | Edit Mode | Contact Info |
+| Profile Home | Contact Info | Edit Mode |
 |:-:|:-:|:-:|
 | ![Desktop 1](screenshot/desktop%20page%202.1.png) | ![Desktop 2](screenshot/desktop%20page%202.2.png) | ![Desktop 3](screenshot/desktop%20page%202.3.png) |
 
